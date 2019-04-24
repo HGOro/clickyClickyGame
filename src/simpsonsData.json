@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "image": "barney.png",
+        "selected": false,
+        "name":"Barney"
+    },
+    {
+        "id":2,
+        "image": "comicbookguy.png",
+        "selected": false,
+        "name":"Comic Book Guy"
+    },
+    {
+        "id":3,
+        "image": "frankrimes.png",
+        "selected": false,
+        "name":"Frank Rimes"
+    },
+    {
+        "id":4,
+        "image": "homer.png",
+        "selected": false,
+        "name":"Homer"
+    }
+
+]
