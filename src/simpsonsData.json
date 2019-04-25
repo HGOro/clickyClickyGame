@@ -13,15 +13,81 @@
     },
     {
         "id":3,
-        "image": "frankrimes.png",
+        "image": "frankgrimes.png",
         "selected": false,
-        "name":"Frank Rimes"
+        "name":"Frank Grimes"
     },
     {
         "id":4,
         "image": "homer.png",
         "selected": false,
         "name":"Homer"
+    },
+    {
+        "id":5,
+        "image": "frink.png",
+        "selected": false,
+        "name":"Frink"
+    },
+    {
+        "id":6,
+        "image": "kent.png",
+        "selected": false,
+        "name":"Kent"
+    },
+    {
+        "id":7,
+        "image": "lisa.png",
+        "selected": false,
+        "name":"Lisa"
+    },
+    {
+        "id":8,
+        "image": "maggie.png",
+        "selected": false,
+        "name":"Maggie"
+    },
+    {
+        "id":9,
+        "image": "marge.png",
+        "selected": false,
+        "name":"Marge"
+    },
+    {
+        "id":10,
+        "image": "milhouse.png",
+        "selected": false,
+        "name":"Milhouse"
+    },
+    {
+        "id":11,
+        "image": "moe.png",
+        "selected": false,
+        "name":"Moe"
+    },
+    {
+        "id":12,
+        "image": "moleman.png",
+        "selected": false,
+        "name":"Moleman"
+    },
+    {
+        "id":13,
+        "image": "nelson.png",
+        "selected": false,
+        "name":"nelson"
+    },
+    {
+        "id":14,
+        "image": "radioactive.png",
+        "selected": false,
+        "name":"Radioactive Man"
+    },
+    {
+        "id":15,
+        "image": "bart.png",
+        "selected": false,
+        "name":"Bart"
     }
 
 ]
